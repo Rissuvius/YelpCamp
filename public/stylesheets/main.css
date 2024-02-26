@@ -1,0 +1,20 @@
+.thumbnail img {
+    max-height: 300px;
+    /*width: auto;*/
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.caption-full {
+    word-wrap: break-word;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+.delete-form {
+    display:inline;
+}
